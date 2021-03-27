@@ -1,0 +1,5 @@
+- Data binding
+- Capture order
+- Show a list of oders
+- Remove order once processed
+- Allow user to change price of donuts or coffee fir future orders 
